@@ -10,7 +10,7 @@
 ### Website Trust and Aesthetics Prediction
 Research project that uses ML to predict user trust and aesthetic perception from website design features.
 - **Tech:** Python, OpenCV, scikit-learn, pandas
-- [Research Poster](https://mikchi.github.io/c4k-event/)
+- [Research Poster](Visual Complexity, Prototypicality, and Trust Predicting User Perception from Website Design Features (1).png)
 
 ### CardzForKidz Event Website 
 Promotional website for the CardzForKidz club's card-making event.

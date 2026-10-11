@@ -3,6 +3,7 @@
 ## [🎧] Skills ⌒₊˚
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Machine learning:** model training and evaluation, feature engineering
+- **Design:** UI/UX design, graphic design, Canva
 - **Tools:** Git, GitHub, VS Code
 
 ## [🔗] Projects ˖ ໒ ˖

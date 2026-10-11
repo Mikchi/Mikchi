@@ -1,14 +1,14 @@
-## Hi there ೀ
+## Hi there ── ♪
 
-## Skills ⌒₊˚
+## [🎧] Skills ⌒₊˚
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Machine learning:** model training and evaluation, feature engineering
 - **Tools:** Git, GitHub, VS Code
 
-## Projects ˖ ໒ ˖ 
+## [📎] Projects ˖ ໒ ˖
 
 ### Website Trust and Aesthetics Prediction
-Research project that uses ML to predict user trust and aesthetic perception from website design features.
+Research project using ML to predict user trust and aesthetic perception from website design features.
 - **Tech:** Python, OpenCV, scikit-learn, pandas
 - **Poster:** [View the research poster](research-poster.png)
 

@@ -1,17 +1,17 @@
 ## Hi there ── ♪
 
-## [🎧] Skills ⌒₊˚
+## [🎧] Skills
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Machine learning:** model training and evaluation, feature engineering
 - **Design:** UI/UX design, graphic design, Canva
 - **Tools:** Git, GitHub, VS Code
 
-## [🔗] Projects ˖ ໒ ˖
+## [🔗] Projects
 
 ### Website Trust and Aesthetics Prediction
 Research project using ML to predict user trust and aesthetic perception from website design features.
 - **Tech:** Python, OpenCV, scikit-learn, pandas
-- **Poster:** [View the research poster](research-poster.png)
+- **Poster:** [View research poster](research-poster.png)
 
 ### CardzForKidz Event Website 
 Promotional website for the CardzForKidz club's card-making event.

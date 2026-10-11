@@ -5,7 +5,7 @@
 - **Machine learning:** model training and evaluation, feature engineering
 - **Tools:** Git, GitHub, VS Code
 
-## [📎] Projects ˖ ໒ ˖
+## [🔗] Projects ˖ ໒ ˖
 
 ### Website Trust and Aesthetics Prediction
 Research project using ML to predict user trust and aesthetic perception from website design features.

@@ -7,8 +7,13 @@
 
 ## Projects ˖ ໒ ˖ 
 
+### Website Trust and Aesthetics Prediction
+Research project that uses ML to predict user trust and aesthetic perception from website design features.
+- **Tech:** Python, OpenCV, scikit-learn, pandas
+- [Research Poster](https://mikchi.github.io/c4k-event/)
+
 ### CardzForKidz Event Website 
-Promotional website for the CardzxForKidz club's card-making event.
+Promotional website for the CardzForKidz club's card-making event.
 - **Tech:** HTML, CSS, JavaScript
 - **Link:** [Live site](https://mikchi.github.io/c4k-event/) | [Code](https://github.com/Mikchi/c4k-event)
 

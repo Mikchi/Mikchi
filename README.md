@@ -10,9 +10,7 @@
 ### Website Trust and Aesthetics Prediction
 Research project that uses ML to predict user trust and aesthetic perception from website design features.
 - **Tech:** Python, OpenCV, scikit-learn, pandas
-- **Poster:** click the image below to view it full size
-
-[![Research poster](research-poster.png)](research-poster.png)
+- **Poster:** [View the research poster](research-poster.png)
 
 ### CardzForKidz Event Website 
 Promotional website for the CardzForKidz club's card-making event.

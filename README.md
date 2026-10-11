@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there ೀ
+
+## Skills ⌒₊˚
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Machine learning:** model training and evaluation, feature engineering
+- **Tools:** Git, GitHub, VS Code
+
+## Projects ˖ ໒ ˖ 
+
+### CardzForKidz Event Website 
+Promotional website for the CardzxForKidz club's card-making event.
+- **Tech:** HTML, CSS, JavaScript
+- **Link:** [Live site](https://mikchi.github.io/c4k-event/) | [Code](https://github.com/Mikchi/c4k-event)
 
 <!--
 **Mikchi/Mikchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
